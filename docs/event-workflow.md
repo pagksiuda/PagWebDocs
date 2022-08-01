@@ -60,9 +60,9 @@ RegionalCouncil-2018-12-06-CancellationNotice.pdf
 It should be spelled out as:
 Regional-Council-2018-12-06-Cancellation-Notice.pdf
 
-TIP-Subcommittee
-CART-Committee
-CAC-Agenda
+TIP-Subcommittee<br />
+CART-Committee<br />
+CAC-Agenda<br />
 :::
 
 Other Examples:<br />

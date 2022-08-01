@@ -2,13 +2,13 @@ module.exports = {
   title: "PAG/RTA Website Documentation",
   tagline:
     "Improving the region's mobility, sustainability and livability through collaborative leadership and planning",
-  url: "https://pagwebdocs.netlify.app/",
+  url: "https://pagwebsitedocs.netlify.app/",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "Pima Association of Governments", // Usually your GitHub org/user name.
-  projectName: "PAGwebdocs", // Usually your repo name.
+  projectName: "PagWebDocs", // Usually your repo name.
   themeConfig: {
     navbar: {
       title: "Home",
